@@ -1,6 +1,4 @@
-# Mechanic_AI
-Virtual Car Mechanic Chatbot
-Overview
+# Mechanic AI: A Language Model Chatbot for Car Diagnostics
 This project aims to develop an intelligent chatbot that serves as a virtual car mechanic. The chatbot can diagnose and troubleshoot car issues by leveraging information from car manuals, service records, and maintenance guides. It provides accurate solutions and facilitates spare parts availability checks, even allowing users to order the necessary parts.
 
 Key Features:
